@@ -1,13 +1,13 @@
-# Fala — releases
+# Sonira — releases
 
-Public download and auto-update host for the **Fala** macOS app. Source code lives in the
-private `LeapLane/fala` repo; only signed, notarized release artifacts and update manifests
+Public download and auto-update host for the **Sonira** macOS app. Source code lives in the
+private `LeapLane/sonira` repo; only signed, notarized release artifacts and update manifests
 are published here.
 
 ## Download
 
-**[Download Fala for macOS](https://github.com/LeapLane/fala-releases/releases/download/stable/Fala.dmg)**
-(universal, Intel + Apple Silicon). Open the `.dmg`, drag **Fala** to **Applications**, launch it.
+**[Download Sonira for macOS](https://github.com/LeapLane/sonira-releases/releases/download/stable/Sonira.dmg)**
+(universal, Intel + Apple Silicon). Open the `.dmg`, drag **Sonira** to **Applications**, launch it.
 
 ## Channels
 
